@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title Cronograma de Construção de uma Casa
     dateFormat YYYY-MM-DD
@@ -12,3 +13,4 @@ gantt
     Acabamento Externo              :ae1, after ai1, 15d
     section Finalização
     Inspeção Final e Entrega        :ife1, after ae1, 5d
+```
